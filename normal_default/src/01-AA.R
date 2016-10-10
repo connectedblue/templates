@@ -1,0 +1,1 @@
+# special src file for the normal template
