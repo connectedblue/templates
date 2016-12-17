@@ -1,0 +1,9 @@
+data/final
+data/testing
+*.zip
+cache
+*csv
+*html
+*pdf
+_cache
+_files
