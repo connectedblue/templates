@@ -1,3 +1,2 @@
 load_libraries: TRUE
-libraries: tm, SnowballC, R.utils, NLP, data.table
-sticky_variables: corpus, cleancorpus
+libraries: dplyr, ggplot2
